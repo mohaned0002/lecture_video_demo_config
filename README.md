@@ -1,2 +1,40 @@
-# lecture_video_demo_config
-this is test 
+#lecture_video_demo_config          
+
+
+hello 
+
+test push 
+
+3 test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
